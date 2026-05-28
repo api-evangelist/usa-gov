@@ -1,0 +1,32 @@
+aid: usa-gov
+name: USA.gov
+description: "Authoritative information on U.S. programs, events, services and more"
+url: https://www.usa.gov/developer
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Government"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Government
+  - Public APIs
+apis:
+  - name: USA.gov
+    description: "Authoritative information on U.S. programs, events, services and more"
+    humanURL: https://www.usa.gov/developer
+    baseURL: https://www.usa.gov/developer
+    tags:
+      - Government
+    properties:
+      - type: Documentation
+        url: https://www.usa.gov/developer
+common:
+  - type: Website
+    url: https://www.usa.gov/developer
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
