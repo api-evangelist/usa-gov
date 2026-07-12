@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://www.usa.gov/developer
 common:
+  - type: DomainSecurity
+    url: security/usa-gov-domain-security.yml
   - type: Website
     url: https://www.usa.gov/developer
   - type: PublicAPIsListing
